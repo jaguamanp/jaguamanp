@@ -35,7 +35,7 @@
 ## 📫 Contáctame
 
 - **Correo Electrónico**: [jaguamanp@gmail.com](mailto:jaguamanp@gmail.com)
-- **LinkedIn**: [linkedin.com/in/jaguamanpl]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jos%C3%A9-arturo-guam%C3%A1n-pachacama-b34a99186/)
+- **LinkedIn**: [linkedin.com/in/jaguamanp](https://www.linkedin.com/in/jos%C3%A9-arturo-guam%C3%A1n-pachacama-b34a99186/)
 - **GitHub**: [github.com/jaguamanp](https://github.com/jaguamanp)
 
 ---
