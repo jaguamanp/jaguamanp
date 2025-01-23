@@ -20,7 +20,7 @@
 - **PHP**, **TypeScript**, **JavaScript**, **Java**, **SQL**.
 
 ### Desarrollo Web
-- **HTML** y **CSS**: Creación de interfaces web accesibles y responsivas.
+- **HTML**, **CSS**, **bootstrap**, **Wordpress**: Creación de interfaces web accesibles y responsivas.
 
 ---
 
